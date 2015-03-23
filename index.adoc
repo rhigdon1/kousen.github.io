@@ -1,0 +1,6 @@
+---
+---
+= Welcome to Kousen IT, Inc.
+:layout: page
+
+This is the home page for Kousen IT, Inc., or it will be when I'm done.
